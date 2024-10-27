@@ -43,14 +43,7 @@ npm start
 ```
 
 5. Follow the instructions provided in the terminal.
-
-### Usage
-
-1. When prompted, enter the name of the anime you want to search for.
-2. Select the desired anime from the search results by entering the corresponding number.
-3. Choose the episode you want to download by entering the episode number.
-4. Select the preferred video quality by entering the corresponding number.
-5. The episode will start downloading to your desktop, and a progress bar will be displayed.
+ 
 
 ### Contributing
 
