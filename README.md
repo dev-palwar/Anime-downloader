@@ -52,34 +52,6 @@ npm start
 4. Select the preferred video quality by entering the corresponding number.
 5. The episode will start downloading to your desktop, and a progress bar will be displayed.
 
-### Example
-
-```bash
-$ npm start
-Press ctrl+c to exit
-And please use a clear name
-Name your anime: One Piece
-
-😈  Alright!
-🔍 Searching...
-📂 Files found
-Press 1 for One Piece
-🤔 So which one you lookin for?
-1
-👍 Got it
-⏳ Hold on...
-💾 Available sizes
-Press 1 for 360p
-Press 2 for 480p
-Press 3 for 720p
-Which size? 2
-🧲 Fetching...
-🫡  Preparing for download...
-✌️   Downloading...
-[===================] 100% | ETA: 0s | 1.2MB/s
-🎉 Downloading finished
-```
-
 ### Contributing
 
 Contributions are welcome! If you have any suggestions to improve it, please let me know :D You can open an issue or submit a pull request.
